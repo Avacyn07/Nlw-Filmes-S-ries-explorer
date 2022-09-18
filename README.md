@@ -9,7 +9,7 @@ Projeto construído do evento Next Level Week da Rocketseat
 >Acesse agora
 
 [Clique aqui para acessar](
-https://avacyn07.github.io/Nlw-Filmes&Séries-explorer/)
+https://avacyn07.github.io/Nlw-Filmes-S-ries-explorer/)
 
 ##  Tecnologias
 
